@@ -5,7 +5,11 @@ The "email" folder is the front-end file written in Vue.js using the Quasar fram
 ### Steps to follow
 
 1) Download node from official site ```nodejs.org```
+2) Run the following commands
 
 ```
 npm install -g @quasar/cli
+pip install -r requirements.txt
+
+git clone 
 ```
