@@ -31,10 +31,9 @@ python manage.py runserver
 ```
 
 ### Methods allowed are POST and GET
-Use POST method to post the email to the database
-Use GET method to get the list of emails registered
+Use POST method to make a POST request at http://127.0.0.1:8000/ to add the email to the database,
+Use GET method to make a GET request without any arguments at http://127.0.0.1:8000/ to get the list of email ids registered
 
-
-
+**Use Postman or chrome for easy get request
 
 
